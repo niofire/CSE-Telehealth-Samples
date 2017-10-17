@@ -10,7 +10,7 @@ At a high level, it provides:
 
 ## License
 This project is licensed under the MIT license. See the included LICENSE file for details.
-
+adsasd
 ## Requirements
 - Office 365 E3 or E5 tenant
 - User with administrative privileges (to manage Azure AD, provide admin consent to applications and access the O365 admin portal).
